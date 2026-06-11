@@ -1,9 +1,10 @@
-<p><b>Hi, I’m James 👋</b></p>
+### Hi, I’m James 👋
+
 Frontend Developer | Aspiring Full-Stack Engineer
 
 ##
 
-<p><b>👨‍💻 About Me</b></p>
+### 👨‍💻 About Me
 
 I'm a software engineer based in the Philippines, focused on building modern, responsive, and scalable web applications.
 
@@ -16,7 +17,7 @@ I enjoy turning ideas into real products using clean UI, efficient state managem
 
 ##
 
-<p><b>💻 Tech Stack</b></p>
+### 💻 Tech Stack
 
 ### Frontend
 
@@ -50,14 +51,18 @@ I enjoy turning ideas into real products using clean UI, efficient state managem
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🎯 Current Focus
+##
+
+### 🎯 Current Focus
 
 - Backend development (Node.js, Express, REST APIs)
 - System design fundamentals
 - Authentication & security (JWT, sessions)
 - Building full-stack projects
 
-## 📫 Let's Connect
+##
+
+### 📫 Let's Connect
 
 I'm always open to collaboration, opportunities, and interesting projects.
 
