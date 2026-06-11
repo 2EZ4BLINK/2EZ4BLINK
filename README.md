@@ -1,7 +1,10 @@
 **Hi, I’m James 👋**
+<br/>
 Frontend Developer | Aspiring Full-Stack Engineer
 
-## 👨‍💻 About Me
+##
+
+**👨‍💻 About Me**
 
 I'm a software engineer based in the Philippines, focused on building modern, responsive, and scalable web applications.
 
@@ -35,6 +38,7 @@ I enjoy turning ideas into real products using clean UI, efficient state managem
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Thunk](https://img.shields.io/badge/Redux%20Thunk-999999?style=for-the-badge&logo=redux&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
 ### Backend (Learning & Growing)
 
@@ -45,16 +49,12 @@ I enjoy turning ideas into real products using clean UI, efficient state managem
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
--
-
 ## 🎯 Current Focus
 
 - Backend development (Node.js, Express, REST APIs)
 - System design fundamentals
 - Authentication & security (JWT, sessions)
 - Building full-stack projects
-
--
 
 ## 📫 Let's Connect
 
