@@ -1,6 +1,5 @@
-**Hi, I’m James 👋**
-<br/>
-Frontend Developer | Aspiring Full-Stack Engineer
+<p style="font-weight:700;">Hi, I’m James 👋</p>
+<p style="font-size:18px;">Frontend Developer | Aspiring Full-Stack Engineer</p>
 
 ##
 
