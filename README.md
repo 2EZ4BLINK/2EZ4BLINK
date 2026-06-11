@@ -53,15 +53,6 @@ I enjoy turning ideas into real products using clean UI, efficient state managem
 
 ##
 
-### 🎯 Current Focus
-
-- Backend development (Node.js, Express, REST APIs)
-- System design fundamentals
-- Authentication & security (JWT, sessions)
-- Building full-stack projects
-
-##
-
 ### 📫 Let's Connect
 
 I'm always open to collaboration, opportunities, and interesting projects.
