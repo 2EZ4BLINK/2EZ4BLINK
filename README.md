@@ -1,9 +1,9 @@
 <p><b>Hi, I’m James 👋</b></p>
-<p style="font-size:18px !important;">Frontend Developer | Aspiring Full-Stack Engineer</p>
+Frontend Developer | Aspiring Full-Stack Engineer
 
 ##
 
-**👨‍💻 About Me**
+<p><b>👨‍💻 About Me</b></p>
 
 I'm a software engineer based in the Philippines, focused on building modern, responsive, and scalable web applications.
 
@@ -14,7 +14,9 @@ I enjoy turning ideas into real products using clean UI, efficient state managem
 - 🚀 Passionate about scalable web apps & clean UI engineering
 - 📈 Always learning modern web technologies
 
-## 💻 Tech Stack
+##
+
+<p><b>💻 Tech Stack</b></p>
 
 ### Frontend
 
