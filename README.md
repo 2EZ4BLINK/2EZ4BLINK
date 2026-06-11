@@ -1,5 +1,4 @@
-# Hi, I’m James 👋
-
+**Hi, I’m James 👋**
 Frontend Developer | Aspiring Full-Stack Engineer
 
 ## 👨‍💻 About Me
@@ -13,7 +12,7 @@ I enjoy turning ideas into real products using clean UI, efficient state managem
 - 🚀 Passionate about scalable web apps & clean UI engineering
 - 📈 Always learning modern web technologies
 
-## ⚡ Tech Stack
+## 💻 Tech Stack
 
 ### Frontend
 
@@ -46,7 +45,7 @@ I enjoy turning ideas into real products using clean UI, efficient state managem
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+-
 
 ## 🎯 Current Focus
 
@@ -55,7 +54,7 @@ I enjoy turning ideas into real products using clean UI, efficient state managem
 - Authentication & security (JWT, sessions)
 - Building full-stack projects
 
----
+-
 
 ## 📫 Let's Connect
 
