@@ -58,5 +58,5 @@ I enjoy turning ideas into real products using clean UI, efficient state managem
 I'm always open to collaboration, opportunities, and interesting projects.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/james-gorospe-653630283)
-- 📧 [Email](mailto:jamesgorospe032116@gmail.com?subject=Hello%20James)
+- 📧 [Email](mailto:jamesgorospe032116@gmail.com)
 - 👾 [GitHub](https://github.com/2EZ4BLINK)
