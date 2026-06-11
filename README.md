@@ -1,5 +1,5 @@
-<p style="font-weight:700;">Hi, I’m James 👋</p>
-<p style="font-size:18px;">Frontend Developer | Aspiring Full-Stack Engineer</p>
+<p><b>Hi, I’m James 👋</b></p>
+<p style="font-size:18px !important;">Frontend Developer | Aspiring Full-Stack Engineer</p>
 
 ##
 
