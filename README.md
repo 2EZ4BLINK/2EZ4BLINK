@@ -2,8 +2,6 @@
 
 Frontend Developer | Aspiring Full-Stack Engineer
 
----
-
 ## 👨‍💻 About Me
 
 I'm a software engineer based in the Philippines, focused on building modern, responsive, and scalable web applications.
@@ -14,8 +12,6 @@ I enjoy turning ideas into real products using clean UI, efficient state managem
 - 💻 Focus: Frontend Development → Full Stack
 - 🚀 Passionate about scalable web apps & clean UI engineering
 - 📈 Always learning modern web technologies
-
----
 
 ## ⚡ Tech Stack
 
