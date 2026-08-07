@@ -1,14 +1,14 @@
 ### Hi, I’m James 👋
 
-Frontend Developer | Aspiring Full-Stack Engineer
+Frontend Developer • React • Flutter • Aspiring Full-Stack Engineer
 
 ##
 
 ### 👨‍💻 About Me
 
-I'm a software engineer based in the Philippines, focused on building modern, responsive, and scalable web applications.
+I'm a frontend developer based in the Philippines, focused on building modern, responsive, and scalable web applications.
 
-I enjoy turning ideas into real products using clean UI, efficient state management, and performance-focused architecture. Currently, I'm strengthening my backend skills to become a full-stack developer.
+I enjoy turning ideas into real products using clean UI, efficient state management, and performance-focused architecture. Currently, I'm expanding into Flutter for cross-platform mobile development while strengthening my backend skills with Node.js, Express.js, MySQL and Supabase to become a full-stack developer.
 
 - 🌍 Based in Philippines
 - 💻 Focus: Frontend Development → Full Stack
@@ -42,10 +42,13 @@ I enjoy turning ideas into real products using clean UI, efficient state managem
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
-### Backend (Learning & Development)
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Learning & Development
+
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
